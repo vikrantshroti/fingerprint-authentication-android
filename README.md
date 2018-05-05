@@ -1,7 +1,7 @@
 # fingerprint-authentication-android
 Finger print authentication for android devices with Android 6.0+
 
-### A demonstaration of finger print sensor to validate user. This sample can be used as per your requirement.
+### A demonstaration of finger print sensor to validate user.
 
 ### Note : 
 * Your device should be android 6.0+ having finer print authentication enabled. 
